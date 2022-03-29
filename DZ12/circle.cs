@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DZ12
 {
-    static class circle
+    static class Circle
     {
         static public double GetLenght(double r)
         {
